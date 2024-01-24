@@ -17,7 +17,7 @@
     <header>
       <nav class="navbar navbar-expand-lg navigation-wrap text-primary">
   <div class="container">
-    <a class="navbar-brand" href="#"><img src="images/4.jpg" class="img-fluid w-50"></a>
+    <a class="navbar-brand" href="#"><img src="image/4.jpg" class="img-fluid w-50"></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -91,7 +91,7 @@
   <div class="row align-tems-center">
     <div class="col-lg-7 col-md-12 mb-lg-0 mb-5">
       <div class="card border-0">
-        <img src="images/img.jpg"class="img-fluid">
+        <img src="image/img.jpg"class="img-fluid">
     </div>
     </div>
     <div class="col-lg-5 col-md-12 text-sec">
@@ -121,7 +121,7 @@ Test your website on various devices and browsers to ensure a consistent and smo
         </div>
         <div class="col-lg-7 col-md-12 mt-2">
           <div class="shadow">
-          <img src="images/n.jpeg" class="img-fluid ">
+          <img src="image/n.jpeg" class="img-fluid ">
         </div>
         </div>
        </div>
